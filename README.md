@@ -1,7 +1,7 @@
 # Portfolyo Sitem
 
 
-### Son dönemde, geliştirdiğim projelerde modern ve güçlü teknolojiler kullanarak harika deneyimler oluşturdum. İşte portfolyomda yer alan bazı teknolojiler:
+## Son dönemde, geliştirdiğim projelerde modern ve güçlü teknolojiler kullanarak harika deneyimler oluşturdum. İşte portfolyomda yer alan bazı teknolojiler:
 
 - @tailwindcss/typography (^0.5.13): Metin içeriklerinin kolay ve şık bir şekilde stilize edilmesini sağlıyor.
 - framer-motion (^11.2.10): Web uygulamalarımda etkileyici ve akıcı animasyonlar oluşturmak için kullanıyorum.
@@ -17,4 +17,4 @@
 ### Her türlü geri bildiriminizi ve bağlantınızı bekliyorum. Hepinize başarılı projeler dilerim! 🚀💻
 
 
-<img src="portfolyo.gif" /># Portfolyom
+<img src="portfolyo.gif" />
